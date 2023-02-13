@@ -6,13 +6,13 @@ Pokemon Randomizer uses javascript to render random pokemon along with their nam
 
 ## Usage
 
-# returns 'Charmander'
+# returns Charmander
 .bio(Charmander,Fire)
 
-#returns 'Squirtle"
+# returns Squirtle
 .bio(Squirtle, Water)
 
-#returns 'Bulbasaur'
+# returns Bulbasaur
 .bio(Bulbasaur, Grass)
 
 ## Contributing
